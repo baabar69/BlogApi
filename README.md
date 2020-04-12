@@ -4,6 +4,9 @@ A BlogAPI developed in NodeJS.
 All the documentation can be found on this link
 https://documenter.getpostman.com/view/10605989/Szezar8d?version=latest#923d5ceb-2b65-4295-93f9-d611676ecff8
 
+Clone the repo & use Command :: npm i OR npm install to install all the dependencies.
+use npm start OR npm run start to start the server.
+
 You can register yourself as a author or reader and create a post with title ,tags, textContent.
 Remember only the author can update and delete the posts .
 After creating a post you can upload an image with put request.
