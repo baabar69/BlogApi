@@ -1,0 +1,18 @@
+Hello Babar,
+
+You are required to develop a complete blog API.
+
+Requirements:
+The users can be of type Author or Reader.
+The users can SignIn Signout of the API.
+The signed in user can create a post by providing (title, text content, images, tags).
+The signed in user can retrieve a list of posts with only required attributes with pagination. eg (Retrieve only title and tags, retrieve title and text).
+The Author can update and delete his posts.
+You are required to develop a framework that does the job, clearly defines authentication, authorization and caching for user sessions.
+
+Choice of Tools:
+You can use any mechanism for auth, caching and database of your choice. The only limitation here is that your framework uses express js as middleware.
+
+Once the test is completed, please email the solution back to me in reply to this email. You have til Sunday midnight (12th April, 11:59pm).
+
+Best of luck!
